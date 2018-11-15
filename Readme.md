@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Solution.sln](./CS/Solution.sln) (VB: [Solution.sln](./VB/Solution.sln))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
 # How to display the GroupSummary value when the group row hides
 
 
