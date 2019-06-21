@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to display the GroupSummary value when the group row hides
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2172)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to set custom formatting for grouped rows according to the following conditions:</p><p>1. Hide group rows;<br />
