@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to display the GroupSummary value when the group row hides
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2172)**
+**[[Run Online]](https://codecentral.devexpress.com/e2172/)**
 <!-- run online end -->
 
 
